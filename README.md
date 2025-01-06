@@ -1,1 +1,2 @@
-# 2025SGtrip
+# 2025SGtrip.github.io
+SG Trips Itinerary
